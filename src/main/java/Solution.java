@@ -38,6 +38,8 @@ public class Solution {
         System.out.println(q2);
         System.out.println(q3);
 
+        scanner.close();
+
     }
 
     private static double calcMedian(int[] param) {
